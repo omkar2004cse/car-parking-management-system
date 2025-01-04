@@ -2,7 +2,7 @@
 <br>
 I am omkar jadhav
 <br>
-It is my frist project in Engineering second year by using c++ and oop concept.
+It is my frist Mini project in Engineering second year by using c++ and oop concept.
 <br>
 code of car parking management in c++ 
 <br>
