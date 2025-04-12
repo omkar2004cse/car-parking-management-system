@@ -1,6 +1,6 @@
 <h1>Car Parking Management System</h1>
 <h3>
-  I am Complete the Car Parking Management System Mini-Project in Second Year of My Engineering Jurney. 
+  I am Complete the Car Parking Management System Mini-Project in Second Year of My Engineering Journey. 
 </h3>
 In These Mini-Project using the CPP and OOP's Concept.
 <h3>
