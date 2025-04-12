@@ -5,5 +5,10 @@
 In These Mini-Project using the CPP and OOP's Concept.
 <h2>
   <b>My contribution:-</b>
-  
+  <ul>
+    <li> Code of these Project </li>
+    <li> Teamleader</li>
+    <li>OOP's Concept Learn</li>
+  </ul>
+ 
 </h2>
